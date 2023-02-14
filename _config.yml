@@ -5,4 +5,9 @@ remote_theme: just-the-docs/just-the-docs
 url: https://vanzussi.github.io/racelab
 
 aux_links:
-  Template Repository: https://github.com/vanzussi/racelab
+  Get Racelab: https://electric-azimuth.co.uk/racelgg
+
+footer_content: "Copyright &copy; 2023-2299 Van Zussi."
+
+favicon_ico: "/assets/favicon.ico"
+
