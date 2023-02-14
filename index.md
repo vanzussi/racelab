@@ -1,5 +1,7 @@
 ---
 title: Home
+layout: default
+nav_order: 900
 ---
 
 # Van Zussi's Guide to Training your Robot Racer 

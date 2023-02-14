@@ -1,13 +1,21 @@
-title: Train your Robot Racer | RaceLab 
+title: Train your Robot Racer 
 description: Do you crave the thrill of the race?
 remote_theme: just-the-docs/just-the-docs
 
-url: https://vanzussi.github.io/racelab
+url: http://127.0.0.1:4000
+#url: https://vanzussi.github.io/racelab
+#baseurl: "/racelab" # the subpath of your site, e.g. /blog
+#url: "https://vanzussi.github.io"
+
+plugins:
+  - jekyll-remote-theme
 
 aux_links:
   Get Racelab: https://electric-azimuth.co.uk/racelgg
 
-footer_content: "Copyright &copy; 2023-2299 Van Zussi."
+footer_content: "Copyright &copy; 2023-2299 Van Zussi"
 
 favicon_ico: "/assets/favicon.ico"
 
+ga_tracking: UA-2727272-1
+ga_tracking_anonymize_ip: true
