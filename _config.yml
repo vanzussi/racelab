@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Train your Robot Racer | RaceLab 
+description: Do you crave the thrill of the race?
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://vanzussi.github.io/racelab
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/vanzussi/racelab
